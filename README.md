@@ -6,6 +6,9 @@ The metastatic spread of cancer cells (CTCs) from the primary tumor to distant s
 
 ![image](https://user-images.githubusercontent.com/96276293/166395556-e6ab99d3-c8de-4ed8-9a25-ef5fe9a08a73.png)
 
+![image](https://user-images.githubusercontent.com/96276293/166473389-9f646b43-3104-4adf-b1d4-b87ea4557737.png)
+
+
 
 
 
